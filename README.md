@@ -34,6 +34,12 @@ _Gerencia de_&#x20;
 
 Com o objetivo de aumentar os lucros
 
+# Física de Altas Energias 
+
+O meu contato com essa área foi relativamente cedo, infelizmente, não possuo registros físicos da época em que estudei, então grande parte do que foi escrito é baseado em minha memória que pode ser falha como já foi provado várias vezes. No entanto, com o auxilio de ferramentas de busca posso encontrar mais informações além do que foi estudado naquela época
+
+
+
 
 
 
