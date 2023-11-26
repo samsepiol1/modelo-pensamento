@@ -8,6 +8,7 @@
 * [Avaliação de Modelos](introduction/avaliacao-de-modelos.md)
 * [Modelo de Segregação de Schelling](introduction/modelo-de-segregacao-de-schelling.md)
 * [Problema da Ovação em Pé](introduction/problema-da-ovacao-em-pe.md)
+* [Random Walk](introduction/random-walk.md)
 
 ## identity
 
