@@ -1,8 +1,15 @@
 ---
 description: >-
-  As anotações aqui presente foram registradas de maneira física no ano de 2019
+  As anotações aqui presente foram registradas de maneira física no ano de 2013 - 2023
   sobre a disciplina de logística e distribuição
 ---
+
+# Modelos de Pensamento - Introdução 
+
+## Introdução - o que são modelos?
+Os modelos fornecem estruturas formais com as quais podemos entender o mundo. No entanto, como é frequentemente notado, todos os modelos estão errados (alguns mais do que outros em qualquer caso).
+A imprecisão dos modelos obriga a duas respostas. Primeiro, devemos refinar e melhorar constantemente eles. Devemos abrir diálogos entre os modelos e a realidade. Ao identificar quando um modelo falha, aprendemos mais sobre as condições necessárias para que funcione. A propósito, eram modelos não está errado, não viveríamos em tempos tão interessantes. Nós apenas escolheríamos o apropriado fórmula e resolver todos os problemas que surgiram em nosso caminho
+
 
 # 📬 Logística e Distribuição - Introdução
 
@@ -26,81 +33,6 @@ _Gerencia de_&#x20;
 
 Com o objetivo de aumentar os lucros
 
-## Evolução da Logística e Distribuição
-
-Apesar de historicamente o termo ser oriundo do meio militar, as atividades de logística e distribuição estão presentes desde dos primórdios da humanidade
-
-1. Revolução&#x20;
-
-* Carvão
-* Energia Elétrica
-* Trens
-
-2. Revolução
-
-* Automóveis
-* Aviões
-
-3. Revolução
-
-* Sistemas da Informação
-
-A logística passou de distribuição para logística integrada, Suporte de Logística Integrada e Logística Total. Na fase final, logística total tem o início na concepção do produto até a sua recuperação.&#x20;
-
-
-
-## Logística Integrada
-
-A logística integrada é dividida em três principais áreas: administração de materiais, movimentação de materiais e distribuição física. Administração de materiais: essa etapa engloba desde a captação e matérias-primas até a fabricação.
-
-* Venda
-* Produção
-* Distribuição
-
-
-
-## Logística de Suporte
-
-* Concepção
-* Venda
-* Produção
-* Distribuição
-* Concepção
-
-## Logística Total
-
-* Concepção
-* Venda
-* Produção
-* Distribuição
-* Concepção
-* Pós-venda
-* Recuperação
-
-## Logística Fragmentada
-
-Na logística fragmentada temos o fluxo de materiais e informações da seguinte forma
-
-Materiais ->&#x20;
-
-Fornecedores -> Empresa -> Clientes
-
-Compras -> Produção -> Distribuição
-
-\-> Informações
-
-## Funções da Logística
-
-* Reduzir o ciclo de vida do produto
-* Globalização dos negócios
-* Elevação do nível de serviço
-* Desenvolvimento Tecnológico
-
-## Interfaces da Logística
-
-A logística pode ser divida em 4: Logística de Suprimentos, Logística Industrial, Logística de Distribuição e Logística Reversa. Em uma organização típica de manufatura, a atividade de suprimento busca por materiais e componentes com fornecedores externos.
-
-Uma vez iniciada a operação de produção, todas as necessidades subsequentes de movimentação de produtos ou de produtos semiacabados entre fábricas são incluídas na atividade de apoio à produção.
 
 
 
