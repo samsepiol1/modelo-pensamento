@@ -1,5 +1,5 @@
 ---
-description: Universidadfe de Michigan
+description: Universidade de Michigan
 ---
 
 # 🖌 Modelos de Pensamento - Introdução
