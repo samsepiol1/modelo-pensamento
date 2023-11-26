@@ -1,7 +1,8 @@
 ---
 description: >-
   As anotações aqui presente foram registradas de maneira física no ano de 2013 - 2023
-  sobre a disciplina de logística e distribuição
+  sobre diversos assuntos a qual eu realizava registros para fins de didáticos e que, de certa forma, acabavam por melhorar muito o meu aprendizado
+  Espero que de alguma forma as anotações ajudem pessoas que são interessadas pelos temas aqui abordados
 ---
 
 # Modelos de Pensamento - Introdução 
